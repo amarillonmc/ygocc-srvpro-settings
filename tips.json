@@ -1,0 +1,7 @@
+{
+  "file": "./config/tips.json",
+  "tips": [
+    "Welcome to our Server!",
+    "Based on Koishi's mod of YGOSRV233 code"
+  ]
+}
