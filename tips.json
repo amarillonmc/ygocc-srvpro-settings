@@ -1,6 +1,4 @@
-{
-  "file": "./config/tips.json",
-  "tips": [
+[
     "Welcome to our Server!",
     "Based on Koishi's mod of YGOSRV233 code",
 	"Reading cards is the key to success.",
@@ -9,5 +7,4 @@
 	"YGOCC Forum: http://ygocc.998fun.com/",
 	"This server is created by @Komeiji Koishi#4392 .",
 	"This server is maintained by @nemoma#0001 ."
-  ]
-}
+]
